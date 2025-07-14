@@ -1,4 +1,4 @@
-# hey there 👋 I’m Kavirithanya!
+# Hey there 👋 I’m Kavirithanya!
 
 💻 I code. I debug. I overthink.  
 ☕ Python & Java keep me going.  
