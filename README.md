@@ -20,7 +20,7 @@
 - 🛡️ [Fraud Detection in Online Payments](https://github.com/Kav1r1thanya/Fraud-Detection-in-Online-Payments)  
 - 💬 [Sentiment Analysis on Social Media](https://github.com/Kav1r1thanya/Sentiment-Analysis-on-Social-Media-Data-)  
 - 🛒 [Customer Purchase Prediction](https://github.com/Kav1r1thanya/Customer-Purchase-Prediction)  
-- 📡 IoT Tracker (BuzzNFind – it buzzes AND finds)  
+- 📡 [IoT Tracker (BuzzNFind – it buzzes AND finds)](https://github.com/Kav1r1thanya/BuzzNFind)
 - 🎬 Netflix Clone (*still cloning...*)
 
 ---
